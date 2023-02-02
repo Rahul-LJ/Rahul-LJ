@@ -10,7 +10,12 @@
   
 >𝓓𝓸𝓷'𝓽 𝓵𝓪𝓾𝓰𝓱, 𝓲𝓴 𝓶𝔂 𝓼𝓽𝓻𝓮𝓪𝓴𝓼 𝓪𝓻𝓮 𝓵𝓸𝔀
 
-https://socialblade.com/youtube/channel/UCMGm-9QAAJFurj3z5tMyjaQ/realtime
+<?php
+$channel_id = "YOUR_CHANNEL_ID";
+$api_key = "API_KEY";
+$api_response = file_get_contents('https://www.googleapis.com/youtube/v3/channels?part=statistics&id='SORRY@6666'&fields=items/statistics/subscriberCount&key='.$api_key);
+$api_response_decoded = json_decode($api_response, true);
+echo $api_response_decoded['items'][0]['statistics']['subscriberCount'];
 
 </div>
 
