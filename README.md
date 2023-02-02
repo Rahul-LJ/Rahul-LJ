@@ -9,14 +9,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rahul-LJ&theme=dark&mode=weekly)](https://git.io/streak-stats)
   
 >𝓓𝓸𝓷'𝓽 𝓵𝓪𝓾𝓰𝓱, 𝓲𝓴 𝓶𝔂 𝓼𝓽𝓻𝓮𝓪𝓴𝓼 𝓪𝓻𝓮 𝓵𝓸𝔀
-
-<?php
-$channel_id = "YOUR_CHANNEL_ID";
-$api_key = "API_KEY";
-$api_response = file_get_contents('https://www.googleapis.com/youtube/v3/channels?part=statistics&id='SORRY@6666'&fields=items/statistics/subscriberCount&key='.$api_key);
-$api_response_decoded = json_decode($api_response, true);
-echo $api_response_decoded['items'][0]['statistics']['subscriberCount'];
-
+  
 </div>
 
 ## :trophy:Achievements:
