@@ -10,6 +10,8 @@
   
 >𝓓𝓸𝓷'𝓽 𝓵𝓪𝓾𝓰𝓱, 𝓲𝓴 𝓶𝔂 𝓼𝓽𝓻𝓮𝓪𝓴𝓼 𝓪𝓻𝓮 𝓵𝓸𝔀
 
+https://socialblade.com/youtube/channel/UCMGm-9QAAJFurj3z5tMyjaQ/realtime
+
 </div>
 
 ## :trophy:Achievements:
