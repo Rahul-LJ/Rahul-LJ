@@ -2,7 +2,13 @@
 - 😎 »»ᅳ𝒚𝒐, 𝑰'𝒎 𝑹𝒂𝒉𝒖𝒍 𝑳𝑱, 𝒂 𝑱𝑬𝑬 𝒂𝒔𝒑𝒊𝒓𝒂𝒏𝒕 𝒐𝒇 𝒈𝒓𝒂𝒅𝒆 𝟏𝟐 𝒘𝒊𝒕𝒉 𝒃𝒊𝒈 𝒂𝒎𝒃𝒊𝒕𝒊𝒐𝒏𝒔 𝒂𝒏𝒅 𝒂 𝒅𝒓𝒊𝒗𝒆 𝒕𝒐 𝒔𝒖𝒄𝒄𝒆𝒆𝒅.
 - 🎧 𝑾𝒉𝒆𝒏 𝑰'𝒎 𝒏𝒐𝒕 𝒉𝒊𝒕𝒕𝒊𝒏𝒈 𝒕𝒉𝒆 𝒃𝒐𝒐𝒌𝒔, 𝑰'𝒎 𝒈𝒂𝒎𝒊𝒏𝒈 𝒂𝒏𝒅 𝒍𝒊𝒔𝒕𝒆𝒏𝒊𝒏𝒈 𝒕𝒐 𝒎𝒖𝒔𝒊𝒄 - 𝒕𝒘𝒐 𝒐𝒇 𝒎𝒚 𝒈𝒓𝒆𝒂𝒕𝒆𝒔𝒕 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒔.
 - 😏 𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒕𝒆𝒂𝒄𝒉𝒊𝒏𝒈 𝒎𝒚𝒔𝒆𝒍𝒇 𝑷𝒚𝒕𝒉𝒐𝒏 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈, 𝒘𝒉𝒊𝒄𝒉 𝒊𝒔 𝒐𝒑𝒆𝒏𝒊𝒏𝒈 𝒖𝒑 𝒂 𝒘𝒉𝒐𝒍𝒆 𝒏𝒆𝒘 𝒘𝒐𝒓𝒍𝒅 𝒐𝒇 𝒑𝒐𝒔𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔 𝒇𝒐𝒓 𝒎𝒆.
-img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Info :) </b>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40" /> </a> </p>
+
 
 ## :chart_with_upwards_trend:Stats:
 <div align="center">
