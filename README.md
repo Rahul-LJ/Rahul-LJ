@@ -6,7 +6,7 @@
 My linkedIN <a href="https://www.linkedin.com/in/rahullj/">
   <img align="centre" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=Rahul_LJ.Rahul_LJ)
+  ![](https://visitor-badge.glitch.me/badge?page_id=Rahul_LJ.Rahul_LJ)
 
 <p align="left">
 </p>
