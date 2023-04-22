@@ -4,7 +4,7 @@
 - 😏 𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒕𝒆𝒂𝒄𝒉𝒊𝒏𝒈 𝒎𝒚𝒔𝒆𝒍𝒇 𝑷𝒚𝒕𝒉𝒐𝒏 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈, 𝒘𝒉𝒊𝒄𝒉 𝒊𝒔 𝒐𝒑𝒆𝒏𝒊𝒏𝒈 𝒖𝒑 𝒂 𝒘𝒉𝒐𝒍𝒆 𝒏𝒆𝒘 𝒘𝒐𝒓𝒍𝒅 𝒐𝒇 𝒑𝒐𝒔𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔 𝒇𝒐𝒓 𝒎𝒆.
   
 My linkedIN <a href="https://www.linkedin.com/in/rahullj/">
-  <img align="left" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="centre" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=Rahul_LJ.Rahul_LJ)
 
