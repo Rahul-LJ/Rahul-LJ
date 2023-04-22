@@ -7,7 +7,7 @@ My linkedIN <a href="https://www.linkedin.com/in/rahullj/">
 My Discord server <a href="https://discord.gg/vfpKfPBrFG">
   <img align="left" alt="Rahul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-  <img align="centre" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   ![](https://visitor-badge.glitch.me/badge?page_id=Rahul_LJ.Rahul_LJ)
 
