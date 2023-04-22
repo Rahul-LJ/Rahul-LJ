@@ -5,9 +5,9 @@
 - 🤙𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝒎𝒆 𝒐𝒏 𝑳𝒊𝒏𝒌𝒆𝒅𝑰𝑵 𝒂𝒏𝒅 𝑫𝒊𝒔𝒄𝒐𝒓𝒅 !
 <a href="https://www.linkedin.com/in/rahullj/"> 
 <a href="https://discord.gg/vfpKfPBrFG">
-<img align="left" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="Rahul's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg]()" />
 </a>
-<img align="left" alt="Rahul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<img align="left" alt="Rahul's Discord" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg](https://discord.gg/vfpKfPBrFG)" />
 </a>
 <br />
 
