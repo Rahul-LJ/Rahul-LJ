@@ -26,7 +26,8 @@
 ## :trophy:Achievements:
 
 * :2nd_place_medal:𝑷𝒂𝒓𝒕 𝒐𝒇 𝒂 𝒕𝒆𝒂𝒎 𝒓𝒂𝒏𝒌𝒆𝒅 2𝓷𝓭 𝒂𝒎𝒐𝒏𝒈 𝟒𝟑 𝒊𝒏 𝒕𝒉𝒆 𝑺𝑹𝑴 𝑪𝒐𝒅𝒂𝒕𝒉𝒐𝒏 𝟐𝟎𝟐𝟑 (w/ @Piyushvarman and @Uvan1532)
-* :mag:𝑨𝒕𝒕𝒆𝒏𝒅𝒆𝒅 𝒂𝒏 𝑨𝑰 𝑾𝒐𝒓𝒌𝒔𝒉𝒐𝒑 𝒃𝒚 𝑨𝑰𝑾𝑺 𝒉𝒆𝒍𝒅 𝒂𝒕 𝒕𝒉𝒆 𝒑𝒓𝒆𝒔𝒕𝒊𝒈𝒊𝒐𝒖𝒔 𝑰𝑰𝑻 𝑴𝒂𝒅𝒓𝒂𝒔. 
+* :mag:𝑨𝒕𝒕𝒆𝒏𝒅𝒆𝒅 𝒂𝒏 𝑨𝑰 𝑾𝒐𝒓𝒌𝒔𝒉𝒐𝒑 𝒃𝒚 𝑨𝑰𝑾𝑺 𝒉𝒆𝒍𝒅 𝒂𝒕 𝒕𝒉𝒆 𝒑𝒓𝒆𝒔𝒕𝒊𝒈𝒊𝒐𝒖𝒔 𝑰𝑰𝑻 𝑴𝒂𝒅𝒓𝒂𝒔.
+* 𝑺𝒆𝒄𝒖𝒓𝒆𝒅 𝟏𝟒𝟓𝒕𝒉 𝒓𝒂𝒏𝒌 𝒐𝒖𝒕 𝒐𝒇 𝟏𝟓𝟓𝟒 𝒔𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝒊𝒏 𝑪𝑶𝑫𝑬𝑾𝑨𝑹𝑺 𝒄𝒐𝒏𝒅𝒖𝒄𝒕𝒆𝒅 𝒃𝒚 𝑪𝒐𝒅𝒊𝒏𝒈𝒂𝒍.
 
 <!---
 Rahul-LJ/Rahul-LJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
