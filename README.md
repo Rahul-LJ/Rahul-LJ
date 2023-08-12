@@ -3,11 +3,10 @@
 - 🎧 𝑾𝒉𝒆𝒏 𝑰'𝒎 𝒏𝒐𝒕 𝒉𝒊𝒕𝒕𝒊𝒏𝒈 𝒕𝒉𝒆 𝒃𝒐𝒐𝒌𝒔, 𝑰'𝒎 𝒈𝒂𝒎𝒊𝒏𝒈 𝒂𝒏𝒅 𝒍𝒊𝒔𝒕𝒆𝒏𝒊𝒏𝒈 𝒕𝒐 𝒎𝒖𝒔𝒊𝒄 - 𝒕𝒘𝒐 𝒐𝒇 𝒎𝒚 𝒈𝒓𝒆𝒂𝒕𝒆𝒔𝒕 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒔.
 - 🤙𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝒎𝒆 𝒐𝒏 𝑳𝒊𝒏𝒌𝒆𝒅𝑰𝑵 𝒂𝒏𝒅 𝑫𝒊𝒔𝒄𝒐𝒓𝒅 !
 <a href="https://www.linkedin.com/in/rahullj/"> 
-<img align="left" alt="Rahul's LinkedIN" width="22px" src="![image](https://github.com/Rahul-LJ/Rahul-LJ/assets/122854516/230709c5-fbe7-43e6-ae76-e13d0dfbaeb0)
-" />
+<img align="left" alt="Rahul's LinkedIN" width="22px" src="![image](https://github.com/Rahul-LJ/Rahul-LJ/assets/122854516/230709c5-fbe7-43e6-ae76-e13d0dfbaeb0)" />
 </a>
 <a href="https://discord.gg/vfpKfPBrFG">
-<img align="left" alt="Rahul's Discord" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg](https://cdn.imgbin.com/24/7/11/imgbin-discord-computer-servers-teamspeak-discord-icon-7JNPg2MaDzryPJc2gxmdADdpL.jpg)" />
+<img align="left" alt="Rahul's Discord" width="22px" src="![image](C:\Users\Rahul\Downloads\d.jpg?raw=true "Title")" />
 </a>
 <br />
 
