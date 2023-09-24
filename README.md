@@ -3,7 +3,7 @@
 - 🎧 --> 𝑰 𝑳𝒐𝒗𝒆 𝑷𝒉𝒐𝒕𝒐𝒈𝒓𝒂𝒑𝒉𝒚, 𝑨𝒓𝒕 𝒘𝒐𝒓𝒌𝒔, 𝑮𝒂𝒎𝒊𝒏𝒈 & 𝒄𝒉𝒊𝒍𝒍𝒊𝒏 𝒘𝒊𝒕𝒉 𝒎𝒖𝒔𝒊𝒄𝒔
 - 🤙---> 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒎𝒆 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝑳𝒊𝒏𝒌𝒆𝒅𝑰𝑵, 𝑫𝒊𝒔𝒄𝒐𝒓𝒅 𝒂𝒏𝒅 𝑰𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎 !
 <a href="https://www.linkedin.com/in/rahullj/"> 
-<img align="left" alt="Rahul's LinkedIN" width="22px" src="![LinkedIN](https://github.com/Rahul-LJ/images-for-bio/blob/main/linkedin-icon-1024x1024-net2o24e.png)" />
+![LinkedIN](https://github.com/Rahul-LJ/images-for-bio/blob/main/linkedin-icon-1024x1024-net2o24e.png)
 </a>
 <a href="https://discord.gg/vfpKfPBrFG">
 <img align="left" alt="Rahul's Discord" width="22px" src="![image](C:\Users\Rahul\Downloads\d.jpg?raw=true "Title")" />
