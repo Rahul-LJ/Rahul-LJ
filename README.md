@@ -1,9 +1,9 @@
 ## :fire:About Me:
-- 😎 »»ᅳ𝒚𝒐, 𝑰'𝒎 𝑹𝒂𝒉𝒖𝒍 𝑳𝑱, 𝒂 𝑱𝑬𝑬 𝒂𝒔𝒑𝒊𝒓𝒂𝒏𝒕 𝒐𝒇 𝒈𝒓𝒂𝒅𝒆 𝟏𝟐 𝒘𝒊𝒕𝒉 𝒃𝒊𝒈 𝒂𝒎𝒃𝒊𝒕𝒊𝒐𝒏𝒔 𝒂𝒏𝒅 𝒂 𝒅𝒓𝒊𝒗𝒆 𝒕𝒐 𝒔𝒖𝒄𝒄𝒆𝒆𝒅.
-- 🎧 𝑾𝒉𝒆𝒏 𝑰'𝒎 𝒏𝒐𝒕 𝒉𝒊𝒕𝒕𝒊𝒏𝒈 𝒕𝒉𝒆 𝒃𝒐𝒐𝒌𝒔, 𝑰'𝒎 𝒈𝒂𝒎𝒊𝒏𝒈 𝒂𝒏𝒅 𝒍𝒊𝒔𝒕𝒆𝒏𝒊𝒏𝒈 𝒕𝒐 𝒎𝒖𝒔𝒊𝒄 - 𝒕𝒘𝒐 𝒐𝒇 𝒎𝒚 𝒈𝒓𝒆𝒂𝒕𝒆𝒔𝒕 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒔.
-- 🤙𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝒎𝒆 𝒐𝒏 𝑳𝒊𝒏𝒌𝒆𝒅𝑰𝑵 𝒂𝒏𝒅 𝑫𝒊𝒔𝒄𝒐𝒓𝒅 !
+- 😎 --> 𝑴𝒚𝒔𝒆𝒍𝒇 𝑹𝒂𝒉𝒖𝒍 𝑳𝑱, 𝒂 𝒅𝒆𝒅𝒊𝒄𝒂𝒕𝒆𝒅 𝒄𝒍𝒂𝒔𝒔 𝟏𝟐 𝒔𝒕𝒖𝒅𝒆𝒏𝒕, 𝒄𝒉𝒊𝒍𝒍𝒊𝒏 𝒊𝒏 𝒕𝒉𝒆 𝒎𝒊𝒅𝒅𝒍𝒆 𝒃𝒆𝒏𝒄𝒉 ;)
+- 🎧 --> 𝑰 𝑳𝒐𝒗𝒆 𝑷𝒉𝒐𝒕𝒐𝒈𝒓𝒂𝒑𝒉𝒚, 𝑨𝒓𝒕 𝒘𝒐𝒓𝒌𝒔, 𝑮𝒂𝒎𝒊𝒏𝒈 & 𝒄𝒉𝒊𝒍𝒍𝒊𝒏 𝒘𝒊𝒕𝒉 𝒎𝒖𝒔𝒊𝒄𝒔
+- 🤙---> 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒎𝒆 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝑳𝒊𝒏𝒌𝒆𝒅𝑰𝑵, 𝑫𝒊𝒔𝒄𝒐𝒓𝒅 𝒂𝒏𝒅 𝑰𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎 !
 <a href="https://www.linkedin.com/in/rahullj/"> 
-<img align="left" alt="Rahul's LinkedIN" width="22px" src="https://images.app.goo.gl/ZLZa1WjxohZJbT4d9" />
+<img align="left" alt="Rahul's LinkedIN" width="22px" src="![LinkedIN](https://github.com/Rahul-LJ/images-for-bio/blob/main/linkedin-icon-1024x1024-net2o24e.png)" />
 </a>
 <a href="https://discord.gg/vfpKfPBrFG">
 <img align="left" alt="Rahul's Discord" width="22px" src="![image](C:\Users\Rahul\Downloads\d.jpg?raw=true "Title")" />
